@@ -17,9 +17,9 @@
    <widget class="QPushButton" name="day1">
     <property name="geometry">
      <rect>
-      <x>20</x>
+      <x>15</x>
       <y>70</y>
-      <width>71</width>
+      <width>101</width>
       <height>41</height>
      </rect>
     </property>
@@ -30,38 +30,16 @@
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -73,7 +51,7 @@ padding: 5px;
      <rect>
       <x>130</x>
       <y>70</y>
-      <width>71</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -84,36 +62,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
 
 
 </string>
@@ -127,7 +85,7 @@ padding: 5px;
      <rect>
       <x>20</x>
       <y>140</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -138,35 +96,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
 
 
 
@@ -181,7 +120,7 @@ padding: 5px;
      <rect>
       <x>134</x>
       <y>142</y>
-      <width>71</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -192,38 +131,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -235,7 +152,7 @@ padding: 5px;
      <rect>
       <x>20</x>
       <y>202</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -246,38 +163,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -289,7 +184,7 @@ padding: 5px;
      <rect>
       <x>130</x>
       <y>202</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -300,38 +195,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -343,7 +216,7 @@ padding: 5px;
      <rect>
       <x>20</x>
       <y>272</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -354,38 +227,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -397,7 +248,7 @@ padding: 5px;
      <rect>
       <x>130</x>
       <y>272</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -408,38 +259,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -451,7 +280,7 @@ padding: 5px;
      <rect>
       <x>20</x>
       <y>342</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -462,38 +291,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -505,7 +312,7 @@ padding: 5px;
      <rect>
       <x>130</x>
       <y>342</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -516,38 +323,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -559,7 +344,7 @@ padding: 5px;
      <rect>
       <x>250</x>
       <y>202</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -570,38 +355,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -613,7 +376,7 @@ padding: 5px;
      <rect>
       <x>250</x>
       <y>140</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -624,38 +387,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -667,7 +408,7 @@ padding: 5px;
      <rect>
       <x>250</x>
       <y>342</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -678,38 +419,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -721,7 +440,7 @@ padding: 5px;
      <rect>
       <x>360</x>
       <y>272</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -732,38 +451,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -775,7 +472,7 @@ padding: 5px;
      <rect>
       <x>364</x>
       <y>142</y>
-      <width>71</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -786,38 +483,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -829,7 +504,7 @@ padding: 5px;
      <rect>
       <x>360</x>
       <y>202</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -840,38 +515,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -883,7 +536,7 @@ padding: 5px;
      <rect>
       <x>250</x>
       <y>70</y>
-      <width>71</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -894,36 +547,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
 
 
 </string>
@@ -937,7 +570,7 @@ padding: 5px;
      <rect>
       <x>250</x>
       <y>272</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -948,38 +581,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -991,7 +602,7 @@ padding: 5px;
      <rect>
       <x>360</x>
       <y>342</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1002,38 +613,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1045,7 +634,7 @@ padding: 5px;
      <rect>
       <x>360</x>
       <y>70</y>
-      <width>71</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1056,36 +645,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
 
 
 </string>
@@ -1099,7 +668,7 @@ padding: 5px;
      <rect>
       <x>606</x>
       <y>68</y>
-      <width>71</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1110,38 +679,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1153,7 +700,7 @@ padding: 5px;
      <rect>
       <x>496</x>
       <y>270</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1164,38 +711,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1207,7 +732,7 @@ padding: 5px;
      <rect>
       <x>496</x>
       <y>138</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1218,38 +743,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1261,7 +764,7 @@ padding: 5px;
      <rect>
       <x>606</x>
       <y>340</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1272,38 +775,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1315,7 +796,7 @@ padding: 5px;
      <rect>
       <x>606</x>
       <y>200</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1326,38 +807,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1369,7 +828,7 @@ padding: 5px;
      <rect>
       <x>496</x>
       <y>200</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1380,38 +839,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1423,7 +860,7 @@ padding: 5px;
      <rect>
       <x>606</x>
       <y>270</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1434,38 +871,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1477,7 +892,7 @@ padding: 5px;
      <rect>
       <x>496</x>
       <y>68</y>
-      <width>71</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1488,37 +903,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
 
 </string>
     </property>
@@ -1531,7 +925,7 @@ padding: 5px;
      <rect>
       <x>496</x>
       <y>340</y>
-      <width>75</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1542,38 +936,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
@@ -1585,7 +957,7 @@ padding: 5px;
      <rect>
       <x>610</x>
       <y>140</y>
-      <width>71</width>
+      <width>97</width>
       <height>41</height>
      </rect>
     </property>
@@ -1596,38 +968,16 @@ padding: 5px;
      </sizepolicy>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton{
-
-rgb(169, 255, 242)
-border: rgb(169, 255, 242);
-padding: 5px;
-
-
-
-
-
-
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
 }
-
-QPushButton:pressed{
-
-
-
-backgrounf-color: #A9A9A9;
-border: 1px solid gray;
-padding: 5px;
-
-
-
-
-
-
-}
-
-
-
-
-
 </string>
     </property>
     <property name="text">
