@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>list</class>
+ <widget class="QMainWindow" name="list">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>768</width>
+    <height>476</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>list</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="day1">
+    <property name="geometry">
+     <rect>
+      <x>15</x>
+      <y>70</y>
+      <width>101</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 1</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day2">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>70</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+
+
+</string>
+    </property>
+    <property name="text">
+     <string>Day 2</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day7">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>140</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+
+
+
+</string>
+    </property>
+    <property name="text">
+     <string>Day 7</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day8">
+    <property name="geometry">
+     <rect>
+      <x>134</x>
+      <y>142</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 8</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day13">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>202</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 13</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day14">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>202</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 14</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day19">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>272</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>day 19</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day20">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>272</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 20</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day25">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>342</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 25</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day26">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>342</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 26</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day15">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>202</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 15</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day9">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>140</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>day 9</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day27">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>342</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>day 27</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day22">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>272</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 22</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day10">
+    <property name="geometry">
+     <rect>
+      <x>364</x>
+      <y>142</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 10</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day16">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>202</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 16</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day3">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>70</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+
+
+</string>
+    </property>
+    <property name="text">
+     <string>Day 3</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day21">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>272</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 21</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day28">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>342</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 28</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day4">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>70</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+
+
+</string>
+    </property>
+    <property name="text">
+     <string>Day 4</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day6">
+    <property name="geometry">
+     <rect>
+      <x>606</x>
+      <y>68</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 6</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day23">
+    <property name="geometry">
+     <rect>
+      <x>496</x>
+      <y>270</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 23</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day11">
+    <property name="geometry">
+     <rect>
+      <x>496</x>
+      <y>138</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 11</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day30">
+    <property name="geometry">
+     <rect>
+      <x>606</x>
+      <y>340</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 30</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day18">
+    <property name="geometry">
+     <rect>
+      <x>606</x>
+      <y>200</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 18</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day17">
+    <property name="geometry">
+     <rect>
+      <x>496</x>
+      <y>200</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>day 17</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day24">
+    <property name="geometry">
+     <rect>
+      <x>606</x>
+      <y>270</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>day 24</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day5">
+    <property name="geometry">
+     <rect>
+      <x>496</x>
+      <y>68</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+
+</string>
+    </property>
+    <property name="text">
+     <string>Day 5</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day29">
+    <property name="geometry">
+     <rect>
+      <x>496</x>
+      <y>340</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 29</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="day12">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>140</y>
+      <width>97</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: rgb(94, 255, 121);
+    
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  rgb(94, 255, 121);
+    font: bold 14px;
+    min-width: 5em;
+    padding: 6px;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>Day 12</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>768</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
