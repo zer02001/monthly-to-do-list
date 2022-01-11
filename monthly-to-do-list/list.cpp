@@ -18,7 +18,7 @@ list::list(QWidget *parent)
     while (i < 30){
         information[i] = " ";
         i++;
-}
+    }
 }
 
 
