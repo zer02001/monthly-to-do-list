@@ -9,9 +9,9 @@ info::info(QWidget *parent, QString info) :
 
 
     ui->lineEdit->setText(info);
-note = info;
+    note = info;
 
-QPixmap bkgnd("/Users/alibi/Downloads/pastel-ui-ux-gradient-background-soft-mesh-vector-24814204.jpg");
+    QPixmap bkgnd("/Users/alibi/Downloads/pastel-ui-ux-gradient-background-soft-mesh-vector-24814204.jpg");
     bkgnd = bkgnd.scaled(this->size(), Qt::IgnoreAspectRatio);
     QPalette palette;
     palette.setBrush(QPalette::Background, bkgnd);
@@ -21,10 +21,7 @@ QPixmap bkgnd("/Users/alibi/Downloads/pastel-ui-ux-gradient-background-soft-mesh
 
 void info::on_textEdit_windowIconTextChanged( QString &iconText)
 {
-ui->lineEdit->setText(iconText);
-
-//note = iconText;
-
+    ui->lineEdit->setText(iconText);
 }
 
 info::~info()
@@ -34,26 +31,13 @@ info::~info()
 
 void info::on_Save_clicked()
 {
-
-
     QString information = ui->lineEdit->displayText();
+    note  = information;
 
-
-   note  = information;
-
-this ->hide();
+    this ->hide();
 }
 
-QString info::getinfo(){
-
-return note;
+    QString info::getinfo(){
+    return note;
 
 }
-
-
-
-
-
-
-
-
