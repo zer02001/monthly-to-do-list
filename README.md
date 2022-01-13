@@ -1,0 +1,1 @@
+The application is used to save daily information needed for each day of the month and will rest at the end of each month. The application is useful for college students and any computer user that is looking to stay organized with their work.
